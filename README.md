@@ -1,3 +1,4 @@
+#Valente Lowery, 23609314.
 #DES Encryption and Decryption Program
 This program implements the Data Encryption Standard (DES) algorithm for encrypting and decrypting messages. DES is a symmetric-key algorithm, meaning the same key is used for both encryption and decryption.
 
